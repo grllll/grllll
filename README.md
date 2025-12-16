@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🎓 I'm studying Software Engineering in Nanjing University.
-- 🔭 Currently interning at ByteDance.
+- 🎓 I’m a Master’s student in Software Engineering at Nanjing University.
+- 🔭 Former intern at ByteDance and Meituan, now building Java backend projects and LLM Agents.
 
 ### 💬 Languages
 
