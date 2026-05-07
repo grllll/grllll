@@ -1,12 +1,12 @@
 ### Hi there 👋
 
 - 🎓 I’m a Master’s student in Software Engineering at Nanjing University.
-- 🔭 Former intern at ByteDance and Meituan, now building Java backend projects and LLM Agents.
+- 🔭 I’m currently interning at Alibaba Cloud, contributing to open-source projects and frameworks such as Nacos and HiClaw.
+- 💻 I’m interested in Java backend development, cloud-native systems, and LLM Agents.
 
 ### 💬 Languages
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/-Go-0036AB?style=flat&logo=go&logoColor=white)
 
